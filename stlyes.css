@@ -1,0 +1,14 @@
+.header {
+    background-color: lightgray;
+    padding: 1rem;
+}
+
+.statements{
+    background-color: lightsteelblue;
+    border: 2px solid gray;
+    margin: 1px;
+}
+.subTitle{
+    border: 1 px solid white;
+    background-color: rgb(133, 122, 122);
+}
